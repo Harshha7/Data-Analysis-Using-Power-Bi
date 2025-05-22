@@ -1,6 +1,6 @@
 # Data-Analysis-Using-Power-Bi
 
-##Overview
+# Overview
 The Coffee Shop Sales Analysis Dashboard is a Power BI project that provides a comprehensive visualization of sales data for a local coffee shop chain. It highlights key performance indicators (KPIs) such as total sales, number of orders, and total quantity sold. The dashboard offers in-depth insights through breakdowns by product category, product type, store location, and time-based sales trends. Designed for business stakeholders, the dashboard helps uncover sales patterns, pinpoint top-performing products, and support data-driven decisions to enhance operational efficiency and growth.
 
 ## Dataset
