@@ -46,5 +46,5 @@ The Coffee Shop Sales Analysis Dashboard is a Power BI project that provides a c
       ```
 The dashboard includes the following components:
 - Some of the important KPIs that I have included are Total sales, orders, and quantity sold with month-over-month comparisons.
-Visuals of Coffee Data Analysis:
+### Visuals of Coffee Data Analysis:
  ![Visuals of Coffee Data Analysis](https://github.com/Harshha7/Data-Analysis-Using-Power-Bi/blob/main/image.png)
